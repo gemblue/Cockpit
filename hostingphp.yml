@@ -1,5 +1,6 @@
 project_name: Cockpit
 framework: php
+php_version: 8.4
 database:
   name: cockpit
   user: cockpit
